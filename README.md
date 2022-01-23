@@ -1,7 +1,7 @@
 
 # Instalar requisitos
 
-cd calculator
+cd Calculator
 
 pip install -r requirements.txt
 
